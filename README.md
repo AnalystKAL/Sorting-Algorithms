@@ -1,7 +1,7 @@
 # Sorting-Algorithms
 
-# Bubble Sort
+Bubble Sort
 
-# Selection Sort
+Selection Sort
 
-# Insertion Sort
+Insertion Sort
