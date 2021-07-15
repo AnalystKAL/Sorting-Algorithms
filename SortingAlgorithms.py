@@ -75,6 +75,6 @@ while connected:
     elif x == "F":
         connected = False
     else:
-        print("what")
+        print("Invalid input")
 
 
